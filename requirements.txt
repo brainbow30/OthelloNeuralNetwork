@@ -1,6 +1,6 @@
 flask
 tensorflow-gpu>=2.4.0
 --find-links https://download.pytorch.org/whl/torch_stable.html
-torch==1.5.0+cu101
+torch==2.2.0
 Flask-Caching
 matplotlib
